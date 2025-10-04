@@ -49,9 +49,15 @@ const Footer = () => {
             </a>
           </div>
           
-          <p className="text-lg font-orbitron tracking-wide">
+          <p className="text-lg font-orbitron tracking-wide mb-6">
             <span className="text-accent">ZeroDay Basics</span> – Where Cybersecurity Starts.
           </p>
+          
+          <div className="border-t border-primary-foreground/20 pt-6">
+            <p className="text-sm text-primary-foreground/70">
+              © 2025 ZeroDay Basics | Where Cybersecurity Starts
+            </p>
+          </div>
         </div>
       </div>
     </footer>
